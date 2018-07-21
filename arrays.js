@@ -17,3 +17,6 @@ function destructivelyAddElementToBeginningOfArray(array,element){
   array = [element, ...array]
   return [element]
 }
+
+
+function 

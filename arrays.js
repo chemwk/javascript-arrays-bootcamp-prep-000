@@ -34,6 +34,14 @@ function accessElementInArray(array,index){
 }
 
 
+function destructivelyRemoveElementFromBegninningOfArray(array){
+  array.shift()
+  return array
+}
+
+
+
+
 
 
 
